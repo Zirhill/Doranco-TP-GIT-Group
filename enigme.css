@@ -1,0 +1,17 @@
+h3 {
+    margin-left : 20px;
+    color : goldenrod;
+}
+
+body {
+    background-color: #8c867d;
+    color : goldenrod;
+}
+
+.jumbotron {
+    background-color : #7d694b;
+}
+
+/* footer {
+    background-color: #474035;
+} */
