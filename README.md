@@ -26,3 +26,4 @@ code blocks for commands
 Any advise for common problems or issues.
 ```
 command to run if program contains helper info
+nouvelle commande
