@@ -1,5 +1,6 @@
 h3 {
-    margin-left : 20px;
+    margin-left : 200px; 
+    /* text-align : center; */
     color : goldenrod;
 }
 
@@ -12,6 +13,19 @@ body {
     background-color : #7d694b;
 }
 
-/* footer {
+footer {
     background-color: #474035;
-} */
+
+}
+
+footer, a {
+    color : goldenrod;
+}
+
+nav {
+    background-color: #474035;
+}
+
+button {
+    margin-top : 20px;
+}
