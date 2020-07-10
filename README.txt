@@ -6,3 +6,9 @@ Projet sur les énigmes
 
 
 ---------------------------
+
+
+- Enigme du Visiteur -
+
+Le concept est simple, si un visiteur à une énigme qu'il veut partager, il peut la soumettre via un formulaire.
+La demande sera analysé puis sera publié ou non suite à la décision de l'admin.
